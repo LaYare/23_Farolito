@@ -1,0 +1,289 @@
+	/*Inicio*/
+header
+	{
+	background: url("../img/img-home.png");
+	width: 100%;
+	height: 700px;
+	background-size: 100% 100%;
+}
+nav ul{
+	list-style-type: none;
+	float: right;
+	margin-right: -15%;
+}
+nav ul li{
+	display: inline-block;
+	color: #989898;
+	margin-top: 5%;
+	margin-bottom: 30%
+}
+.botgri{
+	color: white;
+	background-color: #686868;
+	border: none;
+	padding: 8% 25%;
+	margin-left: 13%
+}
+select{
+	padding: 8% 10%;
+	margin-left: 13%;
+	border-radius: 8px;
+}
+.logo{
+	float: right;
+	margin-bottom: 5%;
+}
+.pazul{
+	font-size: 2em;
+	line-height: 1.5;
+	margin-bottom: 5%;
+	margin-right: -75%;
+}
+.pgris{
+	line-height: 1.5;
+	font-size: 1em;
+	margin-right: -75%;
+	margin-bottom: 5%;
+}
+.botna{
+	color: white;
+	font-size: 1em;
+	background-color: #ff6a49;
+	width: 25%;
+	height: 50px;
+	float: right;
+	margin-top: 3%;
+	border: none;
+}
+	/*metodologia*/
+.metodologia{
+	font-size: 1.8em;
+	margin-bottom: 5%;
+}
+.circulo{
+	border-radius: 50%;
+	width: 320px;
+	height: 320px;
+	display: block;
+	margin: auto;
+	margin-top: 5%;
+	margin-bottom: 10%;
+	color: white;
+	background-color: #ff6a49;
+}
+hr{
+	border-style: dashed;
+	border-width: 3px;
+	width: 210px;
+	color: #ff6a49;
+}
+#der{
+	-webkit-transform: rotate(162deg);
+	-moz-transform: rotate(162deg);
+	-ms-transform: rotate(162deg);
+	transform: rotate(162deg);
+	margin-top: 75%;
+	margin-left: 35%;
+}
+#izq{
+	-webkit-transform: rotate(20deg);
+	-moz-transform: rotate(20deg);
+	-ms-transform: rotate(20deg);
+	transform: rotate(20deg);
+	margin-top: 75%;
+	margin-left: -7%;
+}
+#dow{
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	transform: rotate(90deg);
+	margin-top: 25%;
+	margin-left: 30%;
+	width: 120px;
+}
+.com{
+	margin-right: -300%;
+	margin-top: -10%;
+}
+.com1{
+	margin-top: 110%;
+	margin-left: -40%;
+}
+.borde{
+	border-radius: 50%;
+	border:5px white dashed;
+	width: 305px;
+	height: 305px;
+	display: block;
+	margin-left: -2.5%;
+	margin-top: 3%;
+	padding-top: 1%;
+	line-height: 1.5;
+	font-size: 1.2em;	
+}
+.botazu{
+	background-color: #28c5e6;
+	color: white;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	width: 25%;
+	height: 70px;
+	font-size: 1em;
+	border-style: none;
+	border: 2px solid white;
+}
+	/*postulantes*/
+.postulantes{
+	background-color: #28c5e6;
+	width: 100%;
+	height: 100%;
+	background-size: 100% 100%;
+	color: white;
+	line-height: 1.5;
+}	
+.num{
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	margin-left: 5%;
+}
+.rabla{
+	border-bottom: dashed 2px white;
+	margin-top: 8%;
+	padding-bottom: 5%;
+}
+.verti{
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	transform: rotate(90deg);
+	color: white;
+	border-width: 1px;
+	width: 100px;
+	margin-top: 30%;
+	margin-left: 5%;
+}
+
+	/*empresas*/
+.rana{
+	border-bottom: dashed 2px #ff6a49;
+	padding-bottom:5%;
+}
+.botnar{
+	color: white;
+	font-size: 1em;
+	background-color: #ff6a49;
+	width: 70%;
+	height: 70px;
+	margin-top: 20%;
+	margin-bottom: 10%;	
+}
+	/*centro educativo*/
+.educativo{
+	background-color: #77d248;
+	width: 100%;
+	height: 100%;
+	color: white;
+}
+.raba{
+	border-bottom: dashed 2px white;
+	padding-bottom:5%;
+}
+.botbla{
+	color: white;
+	font-size: 1em;
+	background-color: #77d248;
+	width: 70%;
+	height: 70px;
+	margin-top: 20%;
+	margin-bottom: 10%;	
+	border:white solid;
+}
+	/*lista de oportunidades*/
+.oportunidades{
+	background:url("../img/img-03.png");
+	width: 100%;
+	height: 1200px;
+	background-size: 100% 100%;
+}
+.razu{
+	border-bottom: solid 2px #28c5e6;
+	padding-bottom:3%;
+	text-align: left;
+	margin-left: 30%;
+	margin-top: 3%;
+}
+.oferta{
+	text-align: left;
+	margin-left: 30%;
+	color: #989898;
+	line-height: 1.5;
+}
+.cuana{
+	color: #ff6a49;
+	width: 100px;
+	height: 50px;
+	border:solid #ff6a49;
+	text-align: center;
+	border-radius: 20%;
+	padding: 3%;
+	margin-top: 40%;
+}
+.ragris{
+	border-bottom: dashed 1px #989898;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+	/*blog*/
+.cuama{
+	width: 250px;
+	height: 200px;
+	background-color: #ffc200;
+	color: white;
+	display: block;
+	margin: auto;
+	padding-top: 10%;
+	line-height: 1.5;
+}	
+.cuagri{
+	width: 250px;
+	height: 200px;
+	background-color: #4d4545;
+	color: #989898;
+	display: block;
+	margin: auto;
+	padding-top: 10%;
+	line-height: 1.5;
+}
+	/*Consulta*/
+.consulta{
+	background-color: #989898;
+	width: 100%;
+	height: 500px;
+	color: #4d4545;
+}	
+input{
+	width: 32%;
+	height: 30px;
+	display: block;
+	margin: auto;
+}
+textarea{
+	resize:none;
+	display: block;
+	margin: auto;
+}
+	/*footer*/
+footer{
+	background-color: #4d4545;
+	color: #989898;
+	width: 100%;
+	padding-top: 2%;
+}	
+.redes{
+	display: inline-block;
+	position: relative;
+	float: left;
+	margin-left: 2%;
+}
